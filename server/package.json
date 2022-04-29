@@ -5,7 +5,7 @@
   "main": "server.js",
   "author": "Pankaj Kr",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "bluebird": "^3.5.3",
     "body-parser": "^1.15.2",
     "cors": "^2.8.5",
